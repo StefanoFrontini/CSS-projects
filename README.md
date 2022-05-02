@@ -50,5 +50,19 @@ covering elements with position: absolute
     inset: 0;
 }
 ```
+## 09-animation-property
+```css
+.hero-text{
+    animation: moveDown 3s ease-in-out;
 
-
+}
+@keyframes moveDown {
+    0% {
+        opacity: 0;
+        transform: translateY(-10rem);
+    }
+    100% {
+        opacity: 1;
+    }
+}
+```
