@@ -66,3 +66,16 @@ covering elements with position: absolute
     }
 }
 ```
+
+
+## 10-cards-project
+
+Images styling:
+
+```css
+.img {
+  width: 100%;
+  display: block;
+  object-fit: cover;
+}
+```
