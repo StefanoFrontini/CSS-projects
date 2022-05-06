@@ -25,6 +25,6 @@ yarn-error.log*
 package-lock.json
 
 # gif
-.gif
+*.gif
 # Font Awesome
-/fontawesome-free-5.12.1-web
+*/fontawesome-free-5.12.1-web
