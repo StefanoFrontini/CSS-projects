@@ -28,3 +28,4 @@ package-lock.json
 *.gif
 # Font Awesome
 */fontawesome-free-5.12.1-web
+*/fontawesome-free-5.9.0-web
